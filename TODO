@@ -1,0 +1,5 @@
+Some TODOs, in no particular order:
+
+- make the entry points OSGi components
+- make the examples runnable through a Gogo shell
+- add an OSGi distribution so that the gogo commands are easily runnable
